@@ -54,12 +54,11 @@
           "outreach/message-templates",
           "outreach/verified-emails-and-linkedin",
           "outreach/submission-links",
-          "outreach/access-via-portfolio-founders",
-          "outreach/network-expansion"
+          "outreach/access-via-portfolio-founders"
         ]
       },
       {
-        "group": "Build Relationships",
+        "group": "Build Relations",
         "pages": [
           "build-relationships/deep-intelligence",
           "build-relationships/latest-investor-news",
