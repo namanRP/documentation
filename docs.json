@@ -27,7 +27,7 @@
         ]
       },
       {
-        "group": "Identifying Investors",
+        "group": "Identify",
         "pages": [
           "identifying-investors/recommended-process",
           "identifying-investors/find-investors-of-a-company",
@@ -35,7 +35,7 @@
         ]
       },
       {
-        "group": "Qualifying Investors",
+        "group": "Qualify",
         "pages": [
           "qualifying-investors/ai-investor-qualification",
           "qualifying-investors/precision-targeting",
