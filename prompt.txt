@@ -1,0 +1,167 @@
+Firms & People
+
+Outreach
+Recommended Process -> Pick from OpenVC
+AI-Personalized Messages
+Message Templates
+Verified Emails & LinkedIn
+Submission Links
+
+-----
+
+Update content of Portfolio Founders
+
+....
+
+Design as per Mintlify best practices and elements.
+
+----------
+
+I want you to write the "Via Portfolio Founders" page of CapitalxAI - Superintellgince for fundraingng or AI powered fundraising platform.  A streamlined, founder-first fundraising workflow that helps you discover the right investors, qualify fit with AI, and reach out effectively. It provides relationship pathways, deep investor intelligence, and tools to craft the right pitch. You can track progress with a built-in pipeline and analytics, while managing credits, security, and support in one place.
+
+Give heading (as above)
+Give one line description
+Dont use emdashes, donnt' sound AI, sound human writterm, conversational
+Use confident, friendlt tone.
+Add relevant benefit-led headings
+Give like how to use the elements from Mintlify and language of how it's done professionaly in business liek Google, other SaaS.
+
+Write from the perspective of a founder raising capital for his startup. 
+
+1. Problem
+Describe the pain your audience feels.
+You can structure it like this:
+What they are struggling with
+Why it is frustrating
+What happens if it is not fixed
+Example:
+“Most businesses spend money on traffic but lose visitors because their website is confusing and does not convert.”
+
+2. Insight
+This is where you shift perspective.
+Explain what they may not have realized:
+Why the problem exists
+What actually causes it
+What successful people do differently
+Example:
+“The real issue is not traffic. The problem is your landing page is not built to guide people step by step.”
+
+3. Solution
+Present your product or service as the answer.
+Include:
+What it is
+How it helps
+What makes it different
+Example:
+“Our landing page system helps you design clear, high converting pages in minutes, even if you are not a designer.”
+
+4. Key benefits
+List 3 to 5 main benefits.
+Example:
+Easy to use
+No coding required
+Increases conversions
+
+Competitor's page:
+Guidelines for Intro Requests
+When requesting introductions, a detail-oriented and data-driven approach delivers the best results. Users running VC-backed companies have to request introductions on a daily basis. It pays off to view intro requests as a learnable skill that can be graded on a scale.
+
+In a previous post, Fred Wilson from Union Square Ventures has written extensively about double opt-in introductions that are now the norm in the technology industry. Brad Feld from the Foundry Group has published a similar post on how to request introductions. In a recent post, Alex Iskold of 2048 Ventures has shared useful tips on how to ask for introductions.
+Let’s first take a look at how introductions work in the technology sector:
+
+In the above flow, the first potential drop-off point is when the recipient decides to not forward the request to the investor. This is often referred to as “forwarding conversion”. A second drop-off point is when the recipient forwards the request, but the investor decides to not take the call. This is referred to as “opt-in conversion”.
+1
+John requests Adam for an introduction to Investor X
+
+2
+Adam forwards the request to Investor X
+
+Forwarding conversion depends on how compelling the recipient perceives your request to be. Is this a Company that the investor is likely to be interested in? Is the communication representative of the top cohort of founders?
+3
+Investor X opts in to the introduction
+
+Opt-in conversion depends on the level of interest that your introduction request is able to generate with the investor in question. This depends on a broad range of factors, including how well your Company fits with the stage and the sector of the investor in question.
+With double opt-in introductions, founders need to optimise forwarding and opt-in conversion rates.
+Forwarding Conversion
+The percentage of intro requests that are actually forwarded to the target investor.
+Opt-In Conversion
+The percentage of forwarded intro requests whereby the investor opts in to the introduction.
+To optimise both of the above, users should put in significant effort to make introduction requests that are well-researched and highly personalized.
+​
+Well-Researched Intro Requests
+Through the language of the introduction requests, users can demonstrate their level of research by indicating what makes the investor a strong fit. The below table outlines various ways to do this:
+1
+Similar Investments
+
+Users can reference a given investor’s prior investments that are particularly similar to their business. See details here on how to identify similar investments efficiently.
+2
+Sector Focus
+
+Users can indicate the percentage of the investor’s total investments in their parent sector (I.e. Consumer, or B2B Software). This information is easily available within investor profiles on the Metal platform.
+3
+Stage Focus
+
+Users can reference the percentage of the investor’s total investments in the user’s specific stage (I.e. preseed, seed, Series A, etc.). This is easily visible within investor profiles on Metal.
+Generally, response and success rates tend to be highest for introduction requests that demonstrate a high level of research on a particular investor.
+​
+Personalized Requests
+Users should avoid mass or bulk emails, and instead should personalize each request. This takes time and effort, but yields much stronger results. The two most common types of personalizations are noted below:
+Specific to the Person	Include some piece of content in the intro request that is unique to the recipient, or the user’s relationship with them.
+Company Specific	Include some aspect of the recipient’s company to make the request personalized.
+With recent developments in automated workflows, it becomes particularly important to avoid the communication being perceived as mass or AI-driven automated outbound. The below section provides various templates to illustrate well-researched, targeted and personalized introduction requests.
+​
+Useful Templates
+Scenario: Via Metal, the user looked up the portfolio founders for her target investor. Via the LinkedIn and Gmail integration, the user was able to identify a few portfolio founders that she knew from her prior work experience.
+Intro Request -- Example #1
+It’s been a few years; I hope you’re well. I noticed you started Company X and raised a seed round from ABC Ventures. I recently launched Bonotos, offering accounting software for month-end closing, and we’ve achieved $300K+ in annual revenue within 10 months.
+
+ABC Ventures seems like a great fit for us. They focus on seed investments (30%+ of total portfolio) and B2B Software (50%+), and recently invested in Optima which operates in our space and offers accounting software for a different but adjacent problem.Would you be open to potentially introducing us to ABC Ventures?
+Scenario: Via Metal’s intro pathways functionality, the user identified a portfolio company (Company X) of one of her existing investors that has raised capital from Investor X. The user decides to write to their existing investor to request an introduction with Company X (with the goal to use that conversion to learn about the process with Investor X and to land a potential introduction).
+Intro Request -- Example #2
+Thanks for offering to make potential introductions for our upcoming raise. As per our preliminary research, we have identified Investor X as a particularly strong fit. They have made 30%+ of their investments at the Seed stage and have been particularly active in our sector.
+
+I noticed that one of your portfolio companies, Company X, has previously raised from Investor X. If possible, we would love an opportunity to chat with the founders at Company X to learn about the process, and to potentially get an introduction with Investor X.Would you be open to seeing if the founders at Company X are open to connecting with us over a quick 15-min call?
+
+The posts links:
+https://avc.com/2009/11/the-double-optin-introduction/
+https://feld.com/archives/2020/07/how-to-write-an-email-intro-request/
+https://www.alexiskold.net/2015/01/03/how-to-ask-me-and-others-for-an-intro/
+
+Via Portfolio Founders
+Most venture investors have backed a large number of portfolio founders. The below documentation provides tactical guidelines on which portfolio founders to pursue and how to use these as a channel to build access.
+
+​
+Types of Portfolio Founders
+All portfolio founders fall into one of the following categories –
+1
+Significant Success
+
+Includes founders that have seen significant success and/or have delivered strong financial returns to the investor in the past. An introduction from such a founder is the most effective pathway and has the highest likelihood to result in a call.
+2
+Recent Founders
+
+Includes founders that have raised from the investor recently. These founders likely have a warm and active relationship with the investor and can make effective introductions.
+3
+Distant Founders
+
+Includes founders that raised from the investor a long time ago and may not be in contact anymore. These founders may or may not be able to make an introduction with the investor.
+To access each of the above types of portfolio founders, a nuanced and custom approach tends to work best.
+​
+How to Access Portfolio Founders
+As a first step, users should connect their data sources within Metal, enabling the platform to flag a given investor’s portfolio founder(s) that the user already knows and/or can easily access.
+As shown in the above screenshot, Metal highlights portfolio founders for a given investor that the user already knows (in green), or that may be accessible via the user’s existing investor network (in orange). With these founders, response rates are generally the highest.
+If the user does not see any portfolio founders that s/he is connected with (highlighted in green), or that are identified as accessible (highlighted in orange), then the best option is to reach out to a select set of portfolio founders via custom cold emails to land introductory calls. In order to maximize response rates on such emails, users should try to implement the following best practices –
+Research Portfolio Founders w/ Common Ground – Instead of reaching out to portfolio founders indiscriminately, identify ones that you have common ground with (I.e. building in the same sector or geography, similar past experiences, etc.)
+Write Compelling and Personable Notes – Cold emails work best when they are compelling and personalized. You can refer to this section here for guidelines on writing compelling introduction requests.
+If managed the right way, the above process is known to be effective at building access.
+For guidelines on network expansion, refer to this section.
+​
+How to Approach Portfolio Founders
+If a given user knows a portfolio founder for a prospective investor quite well, then it may be best to reach out with a compelling blurb to request an introduction.
+Generally, founders are very open to forward introduction requests to investors – in doing so, they are helping the investor get deal flow and are building social capital. However, most founders are discerning in that they want to avoid passing along blurbs or decks that aren’t particularly compelling. Users should, therefore, be particular about structuring their blurbs and decks to make these compelling.
+If a given user does not know a portfolio founder for a prospective investor, and is reaching out via a cold email, then it may be best to request a call. That way, users can allow the recipient an opportunity to vet the opportunity (before passing along to their investor).
+For guidelines on how to make compelling intro requests, refer to this section.
+
+Fpcus on:
+Tell that you can  use our Notable Investments section and Founder–Investor Intro Paths
+ section to find linkedin profiles of portolio founders. Click on Search Portfolio Founders button to find the founders and start checking their linkedin profile and start connecting with them.
