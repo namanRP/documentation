@@ -23,6 +23,7 @@
         "pages": [
           "get-started/introduction",
           "get-started/founder-note",
+          "get-started/build-your-raise-engine",
           "get-started/launch-campaign"
         ]
       },
@@ -31,16 +32,15 @@
         "pages": [
           "identifying-investors/recommended-process",
           "identifying-investors/investors-of-a-company",
-          "identifying-investors/general-filters"
+          "identifying-investors/general-filters",
+          "identifying-investors/firms-and-people"
         ]
       },
       {
         "group": "Qualify",
         "pages": [
           "qualifying-investors/ai-investor-qualification",
-          "qualifying-investors/precision-targeting",
           "qualifying-investors/similar-investments",
-          "qualifying-investors/investing-velocity",
           "qualifying-investors/investing-thesis",
           "qualifying-investors/valuation-ranges",
           "qualifying-investors/exclude-investors"
@@ -51,30 +51,26 @@
         "pages": [
           "outreach/recommended-process",
           "outreach/ai-personalized-messages",
+          "outreach/message-templates",
+          "outreach/verified-emails-and-linkedin",
           "outreach/submission-links",
           "outreach/access-via-portfolio-founders",
-          "outreach/network-expansion",
-          "outreach/existing-investors",
-          "outreach/data-export"
+          "outreach/network-expansion"
         ]
       },
       {
         "group": "Build Relationships",
         "pages": [
           "build-relationships/deep-intelligence",
-          "build-relationships/how-to-pitch",
           "build-relationships/latest-investor-news",
-          "build-relationships/investor-content"
+          "outreach/existing-investors"
         ]
       },
       {
         "group": "Manage Pipeline",
         "pages": [
-          "pipeline-development/recommended-process",
           "pipeline-development/pipeline-tracker",
-          "pipeline-development/analytics-dashboard",
-          "pipeline-development/process-velocity",
-          "pipeline-development/key-metrics"
+          "pipeline-development/analytics"
         ]
       },
       {
