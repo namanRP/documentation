@@ -117,6 +117,12 @@
      "vscode"
    ]
   },
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/get-started/introduction"
+    }
+  ],
   "footer": {
     "socials": {
       "website": "https://www.capitalxai.com/",
