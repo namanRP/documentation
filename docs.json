@@ -3,106 +3,105 @@
   "theme": "mint",
   "name": "CapitalxAI",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#254bf1",
+    "light": "#4d6ef4",
+    "dark": "#1a37b8"
   },
   "favicon": "/favicon.ico",
+  "icons": {
+    "library": "lucide"
+  },
   "metadata": {
     "og:image": "/Open Graph CapitalxAI.png",
     "og:title": "CapitalxAI - AI Powered Fundraising",
     "og:description": "Documentation for CapitalxAI - AI powered fundraising platform"
   },
   "navigation": {
-    "tabs": [
+    "groups": [
       {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
+        "group": "Get Started",
+        "pages": [
+          "get-started/introduction",
+          "get-started/founder-note",
+          "get-started/launch-campaign"
         ]
       },
       {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
+        "group": "Identifying Investors",
+        "pages": [
+          "identifying-investors/recommended-process",
+          "identifying-investors/find-investors-of-a-company",
+          "identifying-investors/general-filters"
+        ]
+      },
+      {
+        "group": "Qualifying Investors",
+        "pages": [
+          "qualifying-investors/ai-investor-qualification",
+          "qualifying-investors/precision-targeting",
+          "qualifying-investors/similar-investments",
+          "qualifying-investors/investing-velocity",
+          "qualifying-investors/investing-thesis",
+          "qualifying-investors/valuation-ranges",
+          "qualifying-investors/exclude-investors"
+        ]
+      },
+      {
+        "group": "Outreach",
+        "pages": [
+          "outreach/recommended-process",
+          "outreach/ai-personalized-messages",
+          "outreach/submission-links",
+          "outreach/access-via-portfolio-founders",
+          "outreach/network-expansion",
+          "outreach/existing-investors",
+          "outreach/data-export"
+        ]
+      },
+      {
+        "group": "Build Relationships",
+        "pages": [
+          "build-relationships/deep-intelligence",
+          "build-relationships/how-to-pitch",
+          "build-relationships/latest-investor-news",
+          "build-relationships/investor-content"
+        ]
+      },
+      {
+        "group": "Pipeline Development",
+        "pages": [
+          "pipeline-development/recommended-process",
+          "pipeline-development/pipeline-tracker",
+          "pipeline-development/analytics-dashboard",
+          "pipeline-development/process-velocity",
+          "pipeline-development/key-metrics"
+        ]
+      },
+      {
+        "group": "Account & Support",
+        "pages": [
+          "account-support/my-credits-and-plan",
+          "account-support/secure-by-design",
+          "account-support/priority-support"
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "/",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "API Reference",
-          "href": "/api-reference/introduction",
-          "icon": "terminal"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
-    "light": "/logo.png",
-    "dark": "/logo.png"
+    "light": "/public/logo-light.png",
+    "dark": "/public/logo-dark.png"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:support@capitalxai.com"
+        "href": "mailto:founders@capitalxai.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Get Started",
-      "href": "https://capitalxai.com"
+      "label": "Go to CapitalxAI",
+      "href": "https://app.capitalxai.com/"
     }
   },
   "contextual": {
@@ -119,8 +118,10 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/capitalxai",
-      "linkedin": "https://linkedin.com/company/capitalxai"
+      "website": "https://www.capitalxai.com/",
+      "x": "https://x.com/capitalxaihq",
+      "linkedin": "https://linkedin.com/company/capitalxai",
+      "youtube": "https://www.youtube.com/@CapitalxAI"
     }
   }
 }
