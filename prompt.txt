@@ -1,14 +1,3 @@
-
-
-Outreach
-Recommended Process -> Pick from OpenVC
-AI-Personalized Messages
-Message Templates
-Verified Emails & LinkedIn
-Submission Links
-
------
-
 Update content of Portfolio Founders
 
 ....
@@ -162,6 +151,6 @@ Generally, founders are very open to forward introduction requests to investors 
 If a given user does not know a portfolio founder for a prospective investor, and is reaching out via a cold email, then it may be best to request a call. That way, users can allow the recipient an opportunity to vet the opportunity (before passing along to their investor).
 For guidelines on how to make compelling intro requests, refer to this section.
 
-Fpcus on:
+Focus on:
 Tell that you can  use our Notable Investments section and Founder–Investor Intro Paths
  section to find linkedin profiles of portolio founders. Click on Search Portfolio Founders button to find the founders and start checking their linkedin profile and start connecting with them.
