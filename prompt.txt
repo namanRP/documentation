@@ -1,3 +1,7 @@
+Add the following mp4 videos in public folder and page of there they need to be added:
+investment_thesis -> /qualifying-investors/investing-thesis
+... -> ....
+
 You are adding a new, fully SEO-optimized blog post to an existing Astro + React website.
 
 ### 1) File location
