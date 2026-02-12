@@ -1,3 +1,77 @@
+You are adding a new, fully SEO-optimized blog post to an existing Astro + React website.
+
+### 1) File location
+Create a new file here:
+src/content/blog/{slug}.md
+
+Generate a clean, keyword-rich, SEO-friendly slug based on the final title.
+
+---
+
+### 2) Frontmatter (use exactly this format)
+
+---
+title: "{Generate a clear, high-intent, keyword-first title}"
+description: "{Write a compelling 150–160 character meta description that includes the primary keyword}"
+author: "Your Name"
+publishDate: "{YYYY-MM-DD}"
+updatedDate: "{YYYY-MM-DD}"
+tags: ["primary-keyword", "astro", "react", "webdev", "seo"]
+featuredImage: "/images/{slug}.jpg"
+---
+
+---
+
+### 3) SEO Content Rules (strict)
+Ensure the final content follows ALL of these:
+
+#### Structure
+- Only ONE H1, and it must be the title from frontmatter
+- Use a clear hierarchy: H2 for main sections, H3 for sub-sections
+- Include a strong, readable introduction in the first 2–3 sentences
+- End with a clear conclusion or takeaway section
+
+#### Keyword Optimization
+- Identify ONE primary keyword and 2–3 secondary keywords
+- Use the primary keyword naturally in:
+  - Title
+  - Meta description
+  - First 100 words
+  - At least one H2 heading
+  - Conclusion section
+- Avoid keyword stuffing
+
+#### Internal Linking
+- Add 1–2 relevant internal links to existing blog posts using descriptive anchor text
+- Do NOT use generic anchors like “click here”
+
+#### Technical SEO Alignment
+- Content should be suitable for static rendering in Astro
+- Avoid anything that requires heavy client-side React
+- No duplicate content from other posts
+
+a) Strong “Hook + Data” Pattern in the Intro
+Don’t just introduce the topic. Do:
+Open with a trend
+Add a statistic (27.7% open rate, 60–70% time spent on outreach)
+Reference a real company
+Then transition into what the article will teach
+👉 What you should add:
+Start your blogs like:
+Trend → Data → Real example → What reader will learn
+
+If possilbe, add 1–2 real startup or investor examples per post
+
+
+
+Here is the blog content:
+{content}
+
+
+
+
+---------
+
 Update content of Portfolio Founders
 
 ....
