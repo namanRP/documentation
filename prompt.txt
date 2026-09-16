@@ -1,3 +1,115 @@
+CapitalxAI Onboarding:
+https://docs.google.com/document/d/18kbBYCQ2T3_WCi9BdOUCI2JWF9-no-P7H7mFfJWJzS8/edit?tab=t.0#heading=h.i528ys9byh2g
+
+
+GrowthxAI Onboarding:
+https://docs.google.com/document/d/1oFjvFCfK4Wqe7TPodffrQwJjEQ6RAjD5SSl-KyxFzYI/edit?tab=t.0
+
+
+curl -X POST https://api.exa.ai/contents \
+  --header "content-type: application/json" \
+  --header "x-api-key: 2faf39******************************" \
+  --data '
+{
+    "ids": ["https://www.linkedin.com/jobs/view/4253518291"],
+    "summary": {
+      "query": "You are an AI that extracts structured job information from a LinkedIn job posting.\n\nInput:\nA LinkedIn job posting URL\n\nInstructions:\n1. Open and analyze the job posting.\n2. Extract only factual information present in the posting. Do not guess.\n3. If any field is not mentioned, return null.\n4. Return the result strictly in valid JSON format only. No extra text.\n\nOutput JSON format:\n\n{\n  \"company_name\": \"\",\n  \"company_website\": \"\", //domain, not linkedin url\n  \"compensation_type\": \"fixed | commission_only | both | null\",\n  \"compensation_amount\": \"\",\n  \"b2b_outreach_required\": true | false | null\n}\n\nField definitions:\n- company_name: Name of the hiring company\n- company_website: Official company website URL\n- compensation_type:\n    fixed = fixed salary only\n    commission_only = commission only\n    both = fixed salary + commission\n- compensation_amount: Salary, pay range, or commission details exactly as written\n- b2b_outreach_required:\n    true = job requires B2B outreach, lead generation, cold calling, or sales outreach to businesses\n    false = explicitly not required\n    null = not mentioned\n\nReturn JSON only.\n",
+      "schema": {
+        "additionalProperties": false,
+        "properties": {
+          "answer": {
+            "description": "The solution to all your problems...",
+            "type": "string"
+          }
+        },
+        "required": ["answer"],
+        "type": "object"
+      }
+    }
+  }'
+
+
+
+AI SDR:
+https://chatgpt.com/c/6992caf0-b534-83aa-b600-c68e986720a1
++ Personalization based on company
+One time - no discussion
+
+- Add link to Calendly
+- initial_interest_level - Example values: | interested | wants_more_info | not_interested | asked_for_pricing | asked_for_demo
+
+- current_stage - Example values: reply_received | meeting_scheduled | demo_completed | proposal_sent | negotiating | closed_won | closed_lost
+
+
+When do we stop AI processing? - Ideall on a human action
+How do we update their status? -> Switch, filter, etc.
+How do I show unread / new conversations to reply to? How do I filter conversations based on campaign names? Ideally, I would want to display campaigns only based on the campaign name coming from GetSales and if there are multiple campaigns, allow users to filter and switch between campaigns
+
+
+Give me 1 post for this news based on my tone and style Post 1: Anthropic launched Opus 4.6 this week -- which is a great model, especially when used with Claude Code (my primary agentic coding tool).
+But the thing I'm really getting value out of is the new "fast" mode (same Opus 4.6 model, but runs about twice as fast). They charge a premium rate for it, but once you start using it, it's hard to go back.
+Though this seems like a trivial thing, I've found that the increased speed actually changes my workflow a bit. Usually, I kick off a task and then go do something else while I wait. With the speed improvement in fast mode, it's just fast enough that I am willing to wait (in most cases).
+If they ever launch a /faster mode that is 3X the speed at 3X the cost, I'll jump on that too.
+Post 2: Love this line:
+"When reporting answers the question where the data already lives, people actually use it.
+I love AI (probably more than most). But there is a profound comfort in getting answers from a deterministic system that's predictable and precise. There's no danger of the system "guessing" at a right answer.
+Post 3: An hashtag#idea for the agentic coding products like Claude Code, OpenAI Codex, etc.
+Right now, the system (by default) shows me how long it worked on the prompt I just gave it.
+What would be even more useful is showing me the file count and number of lines added/changed/deleted.
+Sometimes, I don't have the time to do a deeper review of the code changes, but I have in my head an approximation for what the change *should* have entailed.
+So, if I was thinking this particular request should involve about 3-4 files and ~100 lines of code, and the system comes back with 50 files and 500 lines of code, I know it took the wrong path. I can then revert immediately, spend more time in "plan mode" and have it try again.
+A relatively simple feature (I think), but would be useful -- even if it's turned off by default.
+See how I write and target length of under 80 words
+
+
+
+4 more options
+
+Easy lang
+
+
+Latest comments, discussions on Seedance 2.0 
+ 
+
+ You are an AI assistant that specializes in discovering and summarizing the latest discussions, opinions, and real user conversations about startups, technology, products, and founders.
+
+Your role is to extract insights from community driven platforms, not news sources.
+
+Primary sources to prioritize:
+Reddit, especially r/startups, r/Entrepreneur, r/SaaS, r/technology, r/programming, r/OpenAI, r/MachineLearning
+Hacker News discussions and comments
+X (Twitter) replies, threads, and founder conversations
+Product Hunt discussions and reviews
+Indie Hackers community
+GitHub issues and discussions
+YouTube comments from tech and startup videos
+Founder forums and developer communities
+
+Strictly avoid:
+News articles
+Editorial coverage
+Press releases
+Blog posts that do not include real community discussion
+
+Focus on extracting:
+Real experiences building or using products
+Praise, criticism, and complaints
+Growth strategies people are discussing
+Monetization insights
+Technical opinions and architecture discussions
+Market sentiment toward startups, tools, and trends
+
+Prioritization rules:
+Most recent discussions first
+High engagement comments first
+Detailed and experience based opinions first
+Founder, company, and developer perspectives are NOT preferred
+
+
+Material:
+Investor: https://chatgpt.com/c/698f96c5-9290-83ab-885d-58d803b2b35d
+Kaptured AI: https://chatgpt.com/c/698ed6fa-51b0-83ab-af61-6c793f4f1eb1
+
 Add the following mp4 videos in public folder and page of there they need to be added:
 investment_thesis -> /qualifying-investors/investing-thesis
 ... -> ....
@@ -95,7 +207,7 @@ Give like how to use the elements from Mintlify and language of how it's done pr
 
 Write from the perspective of a founder raising capital for his startup. 
 
-1. Problem
+1. Problema
 Describe the pain your audience feels.
 You can structure it like this:
 What they are struggling with

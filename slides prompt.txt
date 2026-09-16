@@ -1,0 +1,78 @@
+
+SLIDES PROMPT:
+https://x.com/ArmanHezarkhani/status/2012224841374486998
+
+[Enable Chat Mode]
+Generate a knowledge file for my presentation project:
+PROJECT: Kaptured AI Sales Deck
+AUDIENCE: CXOs and Marketing Heads of Fashion brands
+TONE: Professional, confident, data-driven
+BRAND:
+- Primary: #1e3a5f
+- Accent: #f59e0b
+- Background: Dark theme, #0f172a
+- Typography: Inter font family
+SLIDE STRUCTURE:
+- Max 3 key points per slide
+- Icons from Lucide React
+- Subtle animations on content reveal
+- 16:9 aspect ratio optimized
+TECHNICAL:
+- Must work on projector (high contrast)
+- Keyboard navigation required
+- No external dependencies beyond what's already installed
+
+
+
+STRUCTURE:
+- Full-screen slides (100vh x 100vw)
+- Keyboard navigation: Arrow keys, Space, Enter to advance; Escape for overview
+- On-screen navigation: Subtle prev/next buttons at screen edges
+- Progress indicator: Dots at bottom showing current position
+- Total slides: 12
+DESIGN:
+- Theme: [Dark with navy #0f172a background / Light with white background]
+- Accent color: #006D5B
+- Typography: Clean sans-serif, large headings (48-72px), readable body (20-24px)
+- Spacing: Generous whitespace, content centered, 64px padding from edges
+ANIMATIONS:
+- Use Framer Motion for all transitions
+- Slides: Fade + horizontal slide (0.4s ease-out)
+- Content: Staggered entrance within each slide
+- Keep all animations under 0.5s
+SLIDE CONTENT:
+1. Title slide: "Fashion is now a content business" with subtitle "#shifthappens"
+Build navigation first. Confirm it works before adding detailed content.
+
+
+
+Following the knowledge file, create slide 2
+
+We are living in a different era in 2 lines as heading
+Arrow Timeline with Years
+2000–2015
+ Photoshoot Era
+ Studio shoots
+ Expensive
+ Slow production
+→
+2015–2022
+ Digital Editing Era
+ Faster editing
+ More channels
+ Still shoot-dependent
+→
+2023–2025
+ Early AI Era
+ AI experimentation
+ Inconsistent results
+ Manual prompting
+→
+2026 →
+ Kaptured.AI Era
+ High-performing creatives
+ Brand consistency
+ Near-perfect product accuracy
+
+For slide 1 and slide 2, add a full background stock image of fashion shoot in both with brightness, opaciity controlled so that it does not look clustered
+

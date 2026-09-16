@@ -1,0 +1,137 @@
+Dashboard:
+I want you to build a professional financial model dashboard with a dark, data-driven aesthetic — inspired by Bloomberg terminals and modern fintech dashboards. Editable inputs, live calculations, export, and a scale simulator.
+
+Selectors:
+https://gemini.google.com/app/6fbd46318683e0d0
+https://chatgpt.com/c/69a5907d-75a8-83a9-8727-4b28a344e531
+
+Sales Context:
+Part 1:
+Give me precise context for a new joining sales and onboarding person so they can answer questions like:
+Can we use the software by ourselves?
+Do you need DSLR-shot images?
+How many images do you need to create a shoot?
+Do we need to ship our products to your office?
+
+Part 2:
+What top 30 replies can come on this linkedin and email outreach?
+Then
+Club duplicates, then give me replies of these 30
+
+PAYOFF PROMPT:
+Rate the quality of this video and suggest a 
+Payoff / Tagline: The punchline screen right before the logo ("True brilliance cannot be cloned.") is the payoff to the tone established in the video. It resolves the tension / emotion / humor while delivering a strong, memorable brand statement or tagline.
+
+Ensure the reel goes viral
+
+Give more to suit a jelwery brand
+
+
+LOOM SCRIPT:
+https://chatgpt.com/c/6996eeb4-8624-83a3-88fd-d90dbd9da7d1
+
+PROMPT 1:
+Given this video, give me rpompt for start frame, end frame and then image to video promtp
+
+Start Frame Prompt:
+Smiling woman holding an upside-down mug, wearing a white line-art sketch of a two-piece dress.
+
+End Frame Prompt:
+Smiling woman holding a mug, wearing a detailed blue and gold lehenga with mirror work.
+
+Full body photo of a woman standing indoors in a modern bedroom, holding a white mug raised above her head, looking upward and smiling, wearing the earring and necklace in attached image, and a Western Work Two Piece Gown, perfectly fitted to her body, ultra realistic, high detail, natural lighting, photorealistic, fashion photography
+
+Keeping everything same and pose same, make the woman wear the necklace and earring from the attached image, and change her line-art 2d dress to a detailed blue and gold lehenga with mirror work.
+
+Need to have match cut type effect on it, keeping one background as fixed
+
+Image-to-Video Prompt:
+Woman pours a blue and gold liquid from a mug over herself, slowly transforming her white line art dress into a fully detailed blue and gold lehenga.
+
+
+PROMPT 2:
+Act as a viral video clip director, tell me shots to start this video.
+
+Maybe something like an ape in the jungle, drone shot. 
+Max 2 shots. Give me the strongest hook that stops the scroll. It has to be what a Hollywood grade director like Steven Spielberg would do.
+
+
+PROMPT 3:
+A highly photorealistic contact sheet on a 9:16 (4 rows, 2 columns = 8 frames) canvas containing equal sized vertical 9:16 portrait frames arranged in a tight grid. Each frame is full bleed, edge to edge, with no borders, no labels, no text, no logos, and no margins.
+
+One frame shows a close up portrait of the orangutan’s face, focused and serious.
+
+One frame shows the orangutan using a jeweler’s hand saw to cut into a gold necklace segment, but the cut is uneven and rough.
+
+One frame shows pliers squeezing a gold necklace link closed with poor alignment, the seam visibly mismatched.
+
+One frame shows a macro shot of a blowtorch flame melting a gold seam on the necklace, but the gold is overheating and deforming.
+
+One frame shows the orangutan using a metal file to smooth a fused area, but leaving scratches and flat spots.
+
+One frame shows tweezers holding a diamond while the orangutan attempts to place it into a gold necklace setting, but the diamond sits crooked.
+
+One frame shows a rotary tool cutting prongs into a gold necklace setting, but the cuts are uneven and asymmetrical.
+
+One frame shows a pushing tool bending gold prongs over a diamond, but the prongs are bent incorrectly and do not secure the stone properly.
+
+One frame shows the orangutan polishing the necklace on a spinning wheel, but the finish is inconsistent and scratched.
+
+One frame shows the orangutan holding the finished diamond and gold necklace in its hand, showing crooked stones, bent prongs, and flawed craftsmanship.
+
+One frame shows a 25 year old Indian woman standing nearby in the forest, watching with a confused, concerned, and puzzled expression, candid documentary realism.
+
+All frames are true 9:16 vertical video stills, full frame, full bleed.
+
+Ultra realistic, real life photography, real diamond reflections, real gold texture, natural rainforest lighting, cinematic telephoto lens compression, shallow depth of field, handheld wildlife documentary camera, National Geographic realism, authentic imperfections, not CGI, not illustration, real photography.
+
+no borders, no frame lines, no film strip, no text, no labels, no margins, full bleed frames.
+
+
+
+
+NEW PROMPTS:
+1. Story building
+I need a series of 10 prompts for text-to-image featuring a woman traveling in Johri Bazaar, and make it highly engaging with creative shots that are not boring or average.
+
+Each clip should be editorial-grade and add a sense of wow to keep viewers engaged.
+
+The Subject Movement Guideline
+The subject within the frame must be doing something dynamic. Passive standing or sitting often looks like a mistake in fast cuts.
+
+Big Gestures. Small movements like blinking or tapping a finger are invisible in 0.5 seconds. You need big, sweeping motions.
+
+Good. Throwing arms in the air, jumping, spinning, running, high fiving the camera.
+Bad. Smiling gently, standing still and looking at a view.
+
+Clips where the subject moves toward or away from the camera work best because they create depth.
+
+Visual Contrast and Variety
+To make the action clips feel epic and like a long journey, you must vary the visual texture between cuts. Do not put two similar clips next to each other.
+
+Center Framing. Keep the main action in the center. If the first clip has the subject on the left and the next on the right, the viewer's eyes have to dart back and forth, which causes visual fatigue.
+
+Alternating Scales
+Wide Shot. A drone shot of a landscape.
+Close Up. A face laughing or a glass clinking.
+POV. Looking down.
+
+It must follow best practices to help make a reel viral.
+
+
+Help me build 10 creative concept shots for a woman traveling in Johari Bazaar:
+
+such as pairing her in front of Hawa Mahal with a big elephant, 
+or showing her standing next to a rickshaw, 
+or walking beside an open cart,
+or sitting and playing with puppets,
+or sitting between 5 traditional men or women, and she's wearing sunglasses.
+
+What are some unique elements, not just simple shots, that I can generate with pairing of unexpected things to make a viral series of shots?
+
+
+2. Image to video prompts
+3. Image realism  
+
+
+
